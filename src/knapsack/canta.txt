@@ -1,0 +1,5 @@
+saat 200 100
+fotograf 500 300
+kamera 700 700
+cep 300 500
+anahtar 100 10 
